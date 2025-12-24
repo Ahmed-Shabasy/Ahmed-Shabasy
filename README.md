@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-shabasy" alt="ahmed-shabasy" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures & Algorithms**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ahmedalshabasy2006@gmail.com**
+- 📫 How to reach me: **ahmedalshabasy2006@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141](https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141)
+- 📄 Know about my experiences: [https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141](https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141)
 
 - ⚡ Fun fact **I hate self-help :)**
 
