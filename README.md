@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 👨‍💻 All of my projects are available at ["SOON"]("SOON")
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Shabasy/Ahmed-Shabasy/blob/main/README.md]("SOON")
 
 - 💬 Ask me about **Python, OOP, OOD**
 
