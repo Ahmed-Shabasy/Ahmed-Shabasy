@@ -5,15 +5,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 👨‍💻 All of my projects are available at [SOON](https://github.com/Ahmed-Shabasy/Ahmed-Shabasy/blob/main/README.md)
-
 - 💬 Ask me about **Python, OOP, OOD**
-
-- 📫 How to reach me **ahmedalshabasy2006@gmail.com**
-
-- 📄 Know about my experiences [https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141](https://www.overleaf.com/read/zdfbrwtfdpyw#c3f141)
-
-- ⚡ Fun fact **I don't believe self-help :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
