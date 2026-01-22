@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&width=435&lines=Ahmed+Shabasy;Entry-level+Full-stack+Developer;Aspiring+Penetration+Tester" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&vCenter=true&width=450&lines=Ahmed+Shabasy;Entry-level+Full-stack+Developer;Aspiring+Penetration+Tester" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-shabasy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-shabasy" /> </p>
 
