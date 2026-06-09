@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=false&vCenter=false&width=450&lines=Ahmed+Shabasy;Entry-level+Full-stack+Developer;Aspiring+Penetration+Tester" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&vCenter=true&width=1012&lines=Ahmed+Shabasy;Entry-level+Full-stack+Developer;Aspiring+Penetration+Tester" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🌱 I’m currently learning HTML & CSS<br>💬 Ask me about Python
