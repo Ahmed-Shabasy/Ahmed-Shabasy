@@ -1,7 +1,7 @@
 # <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=false&vCenter=false&width=450&lines=Ahmed+Shabasy;Entry-level+Full-stack+Developer;Aspiring+Penetration+Tester" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🌱 I’m currently learning Databases & SQL<br>💬 Ask me about Python
+🌱 I’m currently learning HTML & CSS<br>💬 Ask me about Python
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabasy) 
